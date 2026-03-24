@@ -1,9 +1,10 @@
 # SALES-ANALYSIS-FOR-ABAMS-TECH-GLOBAL
 Deep, chart by chart analysis + strategic recommendations (*All figures in Nigerian Naira*)
 
-
+* View Dataset
 <a href= "https://github.com/dexxman/SALES-ANALYSIS-FOR-ABAMS-TECH-GLOBAL/blob/main/P04bkI6pQXmgC0PnJmoQ_Data%20Analytics%20Capstone%20Project%20-%20Novara%20Cohort.xlsx">DATASET LINK</a>
 
+* Excel Dashboard 
 <a href= "https://github.com/dexxman/SALES-ANALYSIS-FOR-ABAMS-TECH-GLOBAL/blob/main/Screenshot%202026-03-23%20230636.png">EXCEL DASHBOARD LINK</a>
 
 
